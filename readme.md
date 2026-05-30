@@ -21,7 +21,7 @@ This script was made inspired by [Scrapman's](https://www.youtube.com/@scrapman)
 
 ## Showcase
 
-![Video](https://www.tumblr.com/magicnothief/818064492660441088)
+![Video](https://va.media.tumblr.com/tumblr_tfv5lbaj6z1b37hp4_720.mp4)
 
 ## How to Install / Update
 
