@@ -64,8 +64,8 @@ function ChallengeGame.hs_init( self )
 	self.hs_seekStartTime = 0
 	
 	-- Timers (Stored in ticks: 40 ticks = 1 second)
-	self.hs_hidingTime = 40 * 60         -- Default: 1 minute
-	self.hs_hintInterval = 40 * 45       -- Default: 45 seconds
+	self.hs_hidingTime = 40 * 120         -- Default: 2 minutes
+	self.hs_hintInterval = 40 * 60       -- Default: 60 seconds
 	self.hs_verbalHintTime = 40 * 60 * 5 -- Default: 5 minutes
 	
 	self.hs_phase = "hiding"
