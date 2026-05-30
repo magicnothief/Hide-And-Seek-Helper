@@ -21,7 +21,8 @@ This script was made inspired by [Scrapman's](https://www.youtube.com/@scrapman)
 
 ## Showcase
 
-![Video](https://va.media.tumblr.com/tumblr_tfv5lbaj6z1b37hp4_720.mp4)
+<video width="960" height="540" controls>
+  <source src="scrapmechanichideandseek.mp4" type="video/mp4">
 
 ## How to Install / Update
 
