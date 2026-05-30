@@ -22,19 +22,19 @@ This script was made inspired by [Scrapman's](https://www.youtube.com/@scrapman)
 ## Showcase
 
 <video width="960" height="540" controls>
-  <source src="scrapmechanichideandseek.mp4" type="video/mp4">
+  <source src="https://va.media.tumblr.com/tumblr_tfv5lbaj6z1b37hp4_720.mp4" type="video/mp4">
 
 ## How to Install / Update
 
-This mod uses a python injector to place the custom logic directly into your game files. 
+This mod uses a Python injector to place the custom logic directly into your game files. 
 
 ### The easy way
 
-I included an executable file you can find in the [latest release](https://github.com/magicnothief/Hide-And-Seek-Helper/releases). Note that this executable is just the python script bundled into one file with PyInstaller. If you have any concerns being a virus (windows will flag it), give the python file to an LLM (eg. ChatGPT) or inspect it yourself.
+I included an executable file you can find in the [latest release](https://github.com/magicnothief/Hide-And-Seek-Helper/releases). Note that this executable is just the python script bundled into one file with PyInstaller. If you have any concerns about being a virus (Windows will flag it), give the Python file to an LLM (eg, ChatGPT) or inspect it yourself.
 
 1. Close Scrap Mechanic if it is running.
 2. Run the `sm_hideandseek_injector.exe`
-3. When prompted, type or paste your **Scrap Mechanic installation path** (the folder where your game is installed via Steam) which you can find with right clicking on the game in your libary, manage, and browse local files.
+3. When prompted, type or paste your **Scrap Mechanic installation path** (the folder where your game is installed via Steam), which you can find by right-clicking on the game in your library, manage, and browse local files.
 4. Type **`1`** and press Enter to select **`[1] INJECT / UPDATE`**.
 5. Once it says "SUCCESS", you are ready to play! You can now open Scrap Mechanic and launch **any** workshop challenge map.
 
@@ -59,10 +59,10 @@ ONLY the host can open their game chat (usually the `Enter` or `T` key) and type
 * If you are hiding: `/role hider [username]`
 * If you are seeking: `/role seeker [username]`
 
-You also don't have to write out a full username, the script will try to match it to a person.
+You also don't have to write out a full username; the script will try to match it to a person.
 
 ### 2. Start the Match
-When everyone is ready, it automatically starts with the timer of the map or the host can type `/startgame` in the chat. 
+When everyone is ready, it automatically starts with the timer of the map, or the host can type `/startgame` in the chat. 
 
 ### 3. The Search & Hints
 Once the hiding time ends, the Seekers can start searching. 
