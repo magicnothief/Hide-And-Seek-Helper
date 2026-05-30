@@ -21,8 +21,7 @@ This script was made inspired by [Scrapman's](https://www.youtube.com/@scrapman)
 
 ## Showcase
 
-<video width="960" height="540" controls>
-  <source src="https://va.media.tumblr.com/tumblr_tfv5lbaj6z1b37hp4_720.mp4" type="video/mp4">
+![](https://va.media.tumblr.com/tumblr_tfv5lbaj6z1b37hp4_720.mp4)
 
 ## How to Install / Update
 
