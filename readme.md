@@ -29,7 +29,7 @@ This mod uses a python injector to place the custom logic directly into your gam
 
 ### The easy way
 
-I included an executable file you can find in the latest release. Note that this executable is just the python script bundled into one file with PyInstaller. If you have any concerns being a virus (windows will flag it), give the python file to an LLM (eg. ChatGPT) or inspect it yourself.
+I included an executable file you can find in the [latest release](https://github.com/magicnothief/Hide-And-Seek-Helper/releases). Note that this executable is just the python script bundled into one file with PyInstaller. If you have any concerns being a virus (windows will flag it), give the python file to an LLM (eg. ChatGPT) or inspect it yourself.
 
 1. Close Scrap Mechanic if it is running.
 2. Run the `sm_hideandseek_injector.exe`
