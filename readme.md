@@ -25,6 +25,8 @@ This script was made inspired by [Scrapman's](https://www.youtube.com/@scrapman)
 
 ## How to Install / Update
 
+### Everyone has to install the mod!
+
 This mod uses a Python injector to place the custom logic directly into your game files. 
 
 ### The easy way
